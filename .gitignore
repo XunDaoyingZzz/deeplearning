@@ -1,0 +1,7 @@
+EuroSAT_RGB/
+outputs/
+report/
+.idea/
+__pycache__/
+*.pyc
+CLAUDE.md
